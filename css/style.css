@@ -298,3 +298,10 @@ section .highlight2{
   color:#e8491d;
   font-weight:bold;
 }
+
+@media (max-width: 650px) {
+    .column2 {
+        width: 100%;
+        display: block;
+    }
+}

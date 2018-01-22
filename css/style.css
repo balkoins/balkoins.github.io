@@ -258,6 +258,8 @@ footer{
     float: left;
     border-radius: 20px;
     margin-bottom: 0.2cm;
+    text-decoration: none;
+    font-size: 15px
 }
 
 .button:hover {
@@ -277,7 +279,7 @@ footer{
     float: right;
     margin-bottom: 0.2cm;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
 
 }
 

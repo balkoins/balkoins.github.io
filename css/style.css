@@ -298,9 +298,9 @@ article#main-col{
 /* Services */
 ul#services li{
   list-style: none;
-  padding:20px;
+  padding:10px;
   border: #cccccc solid 1px;
-  margin-bottom:24px;
+  margin-bottom:15px;
   background:#e6e6e6;
 }
 

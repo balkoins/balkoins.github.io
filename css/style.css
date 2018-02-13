@@ -10,7 +10,7 @@
 }
 
 .info img {
-  width:100%;
+  width:60%;
   transition: all .4s ease-out .1s;
    -moz-transition: all .4s ease-out .1s;
    -webkit-transition: all .4s ease-out .1s;
@@ -350,4 +350,8 @@ footer{
     width:100%;
     margin-bottom:5px;
   }
+}
+#instagram {
+  float: right;
+  margin-left: 500px;
 }

@@ -165,6 +165,8 @@ ul{
   padding-left: 20px;
   padding-right:20px;
   color:#ffffff;
+  cursor: pointer;
+
 }
 
 .dark{
@@ -354,4 +356,132 @@ footer{
 #instagram {
   float: right;
   margin-left: 500px;
+}
+
+.learnMore {
+  height:38px;
+  background:#e8491d;
+  border:0;
+  padding-left: 15px;
+  padding-right:15px;
+  color:#ffffff;
+  float: right;
+  cursor: pointer;
+}
+
+.learnMore a{
+  text-decoration: none;
+  color: inherit;
+
+}
+ul#mining li{
+  list-style: none;
+  padding:10px;
+  border: #cccccc solid 1px;
+  margin-bottom:15px;
+  background:#e6e6e6;
+}
+ul#mining2 li{
+  list-style: none;
+  padding:10px;
+  border: #cccccc solid 1px;
+  margin-bottom:15px;
+  background:#e6e6e6;
+
+}
+article#mining-col{
+  float:left;
+  width:45%;
+  margin-left: 40px;
+}
+article#mining2-col {
+  float:right;
+  width:45%;
+  margin-right: 40px;
+}
+h1.miningTitle {
+  text-align: center;
+
+}
+.dark2 {
+  padding:15px;
+  background:#35424a;
+  color:#ffffff;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.second {
+  display: inline;
+}
+.name1{
+  float: left;
+  display: inline;
+  margin: 10px, 10px, 30px, 10px;
+  vertical-align: middle;
+  font-size: 16px;
+  padding-right: 20px;
+}
+.name1 textarea {
+  height: 20px;
+  vertical-align: middle;
+}
+
+.button_2{
+  height:28px;
+  background:#e8491d;
+  border:0;
+  padding-left: 10px;
+  padding-right:10px;
+  color:#ffffff;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-bottom:20px;
+
+}
+
+.name1 input {
+  width: 80px;
+}
+
+.button3 {
+  height:38px;
+  background:#e8491d;
+  border:0;
+  padding-left: 15px;
+  padding-right:15px;
+  color:#ffffff;
+  float: left;
+  cursor: pointer;
+    margin-top: 4px;
+
+}
+.servicesHeader {
+  display: block;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+
+
+}
+.button4 {
+  height:38px;
+  background:#e8491d;
+  border:0;
+  padding-left: 15px;
+  padding-right:15px;
+  color:#ffffff;
+  float: right;
+  cursor: pointer;
+  margin-top: 4px;
+
+}
+.button4 a{
+  text-decoration: none;
+  color: inherit;
+
+}
+.button3 a{
+  text-decoration: none;
+  color: inherit;
+
 }
